@@ -1,0 +1,11 @@
+public class nehemias {
+    //Maikol Nehemias Quispe Ramos 202211853
+
+    public static void main(String[] args) {
+        saludarProfesor();
+    }
+
+    public static void saludarProfesor() {
+        System.out.println("Hola ing, soy nehemias");
+    }
+}
