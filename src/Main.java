@@ -1,6 +1,6 @@
 
 void main() {
 
- System.out.println("suscribite");
+ System.out.println("holii");
 
 }
